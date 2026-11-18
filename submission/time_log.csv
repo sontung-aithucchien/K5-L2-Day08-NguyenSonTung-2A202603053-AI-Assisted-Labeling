@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,25,"Ước tính theo khung 25 phút của GUIDE; không bấm giờ"
+batch_review,24,72,"Ước tính 3 phút/ảnh theo GUIDE; không bấm giờ"

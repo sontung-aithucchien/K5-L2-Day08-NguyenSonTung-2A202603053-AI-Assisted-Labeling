@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,5,thua,AI assistant,"Box ba phần xe trùng với box #10 bao toàn bộ cùng một xe ba bánh; bỏ box phần mui."
+img_003.jpg,9,thua,AI assistant,"Box phần thân/bánh trùng với box #10 bao toàn bộ cùng một xe ba bánh."
+img_006.jpg,,khong,AI assistant,"Rà ảnh gốc và box; các xe máy đỗ sát nhau nhưng không thấy box sai rõ ràng."
+img_014.jpg,,khong,AI assistant,"Rà ảnh gốc và box; không thấy lỗi nhãn/vị trí rõ ràng trong mẫu."
+img_031.jpg,442,sai_vi_tri_kich_thuoc,AI assistant,"Box bicycle #442 ôm cả hàng hoá nhô xa khỏi xe; theo quyết định CAL-02 cần chỉ giữ xe/giỏ cố định."
+img_035.jpg,,khong,AI assistant,"Rà ảnh gốc và box; không thấy lỗi nhãn/vị trí rõ ràng trong mẫu."
